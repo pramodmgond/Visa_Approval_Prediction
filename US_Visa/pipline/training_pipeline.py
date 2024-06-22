@@ -6,8 +6,8 @@ from US_Visa.components.data_ingestion import DataIngestion
 from US_Visa.components.data_validation import DataValidation
 from US_Visa.components.data_transformation import DataTransformation
 from US_Visa.components.model_trainer import ModelTrainer
-# from US_Visa.components.model_evaluation import ModelEvaluation
-# from US_Visa.components.model_pusher import ModelPusher
+from US_Visa.components.model_evaluation import ModelEvaluation
+from US_Visa.components.model_pusher import ModelPusher
 
 from US_Visa.entity.config_entity import (DataIngestionConfig,
                                           DataValidationConfig,
