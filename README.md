@@ -2,3 +2,4 @@
 # install all package in the requiremts.txt
 # all codes
 # updated now
+# cicd pipeline
