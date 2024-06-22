@@ -5,7 +5,7 @@ from US_Visa.logger import logging
 from US_Visa.components.data_ingestion import DataIngestion
 from US_Visa.components.data_validation import DataValidation
 from US_Visa.components.data_transformation import DataTransformation
-# from US_Visa.components.model_trainer import ModelTrainer
+from US_Visa.components.model_trainer import ModelTrainer
 # from US_Visa.components.model_evaluation import ModelEvaluation
 # from US_Visa.components.model_pusher import ModelPusher
 
