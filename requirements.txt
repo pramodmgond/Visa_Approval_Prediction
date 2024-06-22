@@ -22,6 +22,4 @@ fastapi
 uvicorn
 jinja2
 python-multipart
-flask
-python-multipart
 -e .
